@@ -1,11 +1,10 @@
 # 깐부
 취업하자
+
 <table>
   <tbody>
-    <tr>
       <td align="center"><a href="https://github.com/makepin2r"><img src="https://github.com/makepin2r.png" width="150px" alt="탁승현"/><br /><sub><b>탁승현</b></sub></a></td>
       <td align="center"><a href="https://github.com/Hangju0610"><img src="https://github.com/Hangju0610.png" width="150px" alt="박형주"/><br /><sub><b>박형주</b></sub></a></td>
-    <tr/>
   </tbody>
 </table>
 
